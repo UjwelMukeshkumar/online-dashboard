@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "224997907940",
+    "project_id": "glowsis-dashboard",
+    "storage_bucket": "glowsis-dashboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224997907940:android:ec89b478dae6ed64ecbbf1",
+        "android_client_info": {
+          "package_name": "com.glowsis.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224997907940-g3g8g98sruhu20g64eabuqc0t72i3eug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glowsis.dashboard",
+            "certificate_hash": "df7650f39836f408d560be133da94727ff6cb565"
+          }
+        },
+        {
+          "client_id": "224997907940-hv9jsiem6aflmpaldf13rums5hjd2qf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glowsis.dashboard",
+            "certificate_hash": "248cbcde6db50745de0c20aceb8ac34a8c313bca"
+          }
+        },
+        {
+          "client_id": "224997907940-qu7af13qd4421tnlebp001cofm1kdq5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-pwL3w2i5f4RZNh2074_UOZDU6ISeRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224997907940-qu7af13qd4421tnlebp001cofm1kdq5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224997907940-qslmdk02o07o4fn19qm789v7lsedu8k0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.glowsis.dashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
